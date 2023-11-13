@@ -19,6 +19,11 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/TB8703N/proprietary/vendor/etc/camera/ov5695_ccbfl05006_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov5695_ccbfl05006_chromatix.xml \
     vendor/lenovo/TB8703N/proprietary/vendor/etc/camera/ov5695_f5695ak_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov5695_f5695ak_chromatix.xml \
     vendor/lenovo/TB8703N/proprietary/vendor/firmware/cpp_firmware_v1_5_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_5_0.fw \
+    vendor/lenovo/TB8703N/proprietary/vendor/firmware/a506_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a506_zap.b00 \
+    vendor/lenovo/TB8703N/proprietary/vendor/firmware/a506_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a506_zap.b01 \
+    vendor/lenovo/TB8703N/proprietary/vendor/firmware/a506_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a506_zap.b02 \
+    vendor/lenovo/TB8703N/proprietary/vendor/firmware/a506_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a506_zap.elf \
+    vendor/lenovo/TB8703N/proprietary/vendor/firmware/a506_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a506_zap.mdt \
     vendor/lenovo/TB8703N/proprietary/vendor/lib/libactuator_dw9718s.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9718s.so \
     vendor/lenovo/TB8703N/proprietary/vendor/lib/libchromaflash.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromaflash.so \
     vendor/lenovo/TB8703N/proprietary/vendor/lib/libchromatix_imx219_fx219aq_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_fx219aq_a3_default_preview.so \
